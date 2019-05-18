@@ -912,3 +912,7 @@ if __name__ == '__main__':
   if options.url:
     miner = Miner(options.url, username, password, algorithm = options.algo)
     miner.serve_forever()
+    
+    
+    
+ # Happy Coding !!
